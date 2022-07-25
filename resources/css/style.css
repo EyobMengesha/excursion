@@ -28,6 +28,10 @@ p {
     color: grey;
 }
 
+#images {
+    display: block;
+}
+
 #footer {
     text-align: right;
     color: grey;
